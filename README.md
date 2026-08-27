@@ -18,7 +18,7 @@ This repository contains the complete machine learning pipeline for hybrid multi
 
 | File | Description |
 |------|-------------|
-| `data_collection.py` | NIFTY/BANKNIFTY OHLCV via yfinance (2010-2024) |
+| `data_collection.py` | NIFTY/BANKNIFTY OHLCV via yfinance (2010-2025) |
 | `data_collection_fii_dii.py` | FII/DII institutional flow data |
 | `data_collection_reddit.py` | Reddit sentiment (r/IndiaInvestments) |
 | `data_preprocessing.py` | Merges OHLCV, macro, sentiment; handles missing values |
